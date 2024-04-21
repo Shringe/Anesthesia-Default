@@ -1,0 +1,13 @@
+filename = 'troll-commands-1.1.5.jar'
+name = 'Troll Commands'
+side = 'both'
+
+[download]
+hash = 'b3726f2150d72cf6e4496a2f126d1f676c21999b3b9b90cad5e583e4f22acccc529add879721a357e2740ed1d3c3916e4af226abefead554f252a807dbb646e0'
+hash-format = 'sha512'
+mode = 'url'
+url = 'https://cdn.modrinth.com/data/v1WUOCjr/versions/QE7fmuqM/troll-commands-1.1.5.jar'
+
+[update.modrinth]
+mod-id = 'v1WUOCjr'
+version = 'QE7fmuqM'

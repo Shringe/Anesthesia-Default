@@ -1,0 +1,13 @@
+filename = 'Sounds-0.7.0+1.20.4.jar'
+name = 'Sounds'
+side = 'client'
+
+[download]
+hash = '443f62a04413fcbd2d7cd56f761f57f8b26ae0ccd30d0b27dc97e315a78bbd1bac8cee88d76429a4a70f3e9e171fc34638f9a530667a695ca231e8565f3bc627'
+hash-format = 'sha512'
+mode = 'url'
+url = 'https://cdn.modrinth.com/data/ZouiUX7t/versions/EXAj1XnJ/Sounds-0.7.0%2B1.20.4.jar'
+
+[update.modrinth]
+mod-id = 'ZouiUX7t'
+version = 'EXAj1XnJ'

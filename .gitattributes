@@ -1,0 +1,1 @@
+.minecraft/Distant_Horizons_server_data/Anesthesia/overworld/DistantHorizons.sqlite filter=lfs diff=lfs merge=lfs -text

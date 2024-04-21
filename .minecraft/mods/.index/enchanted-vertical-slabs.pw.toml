@@ -1,0 +1,13 @@
+filename = 'enchanted-vertical-slabs-1.9.3.jar'
+name = 'Enchanted Vertical Slabs'
+side = 'both'
+
+[download]
+hash = '2026c5e3749e94e2b4c3926f0220e9a2c831929c2de2a7a042e193b54274192e50b2fbc96604c0131e17e38345cd268920bd7547a9f35233e8f8b1d84a5c2564'
+hash-format = 'sha512'
+mode = 'url'
+url = 'https://cdn.modrinth.com/data/TG1cHkRf/versions/Wx6D9BUv/enchanted-vertical-slabs-1.9.3.jar'
+
+[update.modrinth]
+mod-id = 'TG1cHkRf'
+version = 'Wx6D9BUv'

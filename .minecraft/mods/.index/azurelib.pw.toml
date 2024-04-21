@@ -1,0 +1,13 @@
+filename = 'azurelib-fabric-1.20.4-2.1.6.jar'
+name = 'AzureLib'
+side = 'both'
+
+[download]
+hash = '96f79237edaff5342b8b3880a10f1968d0005100dae9d059cb47a959bf83d5136b5cd250e90a7501053b1c6bdbb5141bb7990a4545b3051ad462e2b16c859436'
+hash-format = 'sha512'
+mode = 'url'
+url = 'https://cdn.modrinth.com/data/7zlUOZvb/versions/MVeEOXy7/azurelib-fabric-1.20.4-2.1.6.jar'
+
+[update.modrinth]
+mod-id = '7zlUOZvb'
+version = 'MVeEOXy7'

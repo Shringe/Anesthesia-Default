@@ -1,0 +1,13 @@
+filename = 'ImmersiveThunder-1.20.4+1.2.2.jar'
+name = 'ImmersiveThunder'
+side = 'client'
+
+[download]
+hash = '137ad1da2b005000cabc1f790ff63a62ac26cba8c510a69643f560cace5f55d2ca944c1db1e0f9c376f5b0e47a6ad0df07d43819980a06e9c814496b60bf255f'
+hash-format = 'sha512'
+mode = 'url'
+url = 'https://cdn.modrinth.com/data/uKjKoMsj/versions/LdxJnj5h/ImmersiveThunder-1.20.4%2B1.2.2.jar'
+
+[update.modrinth]
+mod-id = 'uKjKoMsj'
+version = 'LdxJnj5h'
